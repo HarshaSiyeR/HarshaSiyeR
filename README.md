@@ -1,6 +1,10 @@
 # 💫 About Me: 
 🕵️‍♀️An enthusiastic who is always curious and loves deriving insights from data.
-🔭I'm currently working on developing skills in the Data Science field.<br>👯I'm looking to collaborate on projects. <br>🤝I'm looking for help with guidance on projects and jobs.<br>🌱I'm currently learning Python, ML, and AI.<br>💬Ask me about analysis and visualization.<br>⚡I'm a quick learner, humorous, creative, and curious.<br> 📫Reach me at www.linkedin.com/in/harshitha-srinivasan
+🔭I'm currently working on developing skills in the Data Science field.<br>
+👯I'm looking to collaborate on projects. <br>🤝I'm looking for help with guidance on projects and jobs.<br>
+🌱I'm currently learning Python, ML, and AI.<br>💬Ask me about analysis and visualization.<br>
+⚡I'm a quick learner, humorous, creative, and curious.<br> 
+📫Reach me at www.linkedin.com/in/harshitha-srinivasan
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsha_thedataist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshitha-srinivasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitha.snivasan@gmail.com) 
