@@ -3,7 +3,7 @@
 🔭I'm currently working on developing skills in the Data Science field.<br>
 👯I'm looking to collaborate on projects. <br>🤝I'm looking for help with guidance on projects and jobs.<br>
 🌱I'm currently learning Python, ML, and AI.<br>💬Ask me about analysis and visualization.<br>
-⚡I'm a quick learner, humorous, creative, and curious.<br> 
+⚡I'm a quick learner, humorous, creative, and curious.<br>  
 📫Reach me at www.linkedin.com/in/harshitha-srinivasan
 
 ## 🌐 Socials:
